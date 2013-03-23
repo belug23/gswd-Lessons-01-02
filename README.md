@@ -1,4 +1,5 @@
-h1. For personnal reference
+For personnal reference
+=======================
 
 This is the result of the two firsts lessons of Getting started with Django http://gettingstartedwithdjango.com/
 
