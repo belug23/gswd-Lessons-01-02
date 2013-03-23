@@ -1,1 +1,5 @@
-<h1>hello world</h1>
+{% extends '_layout/base.html' %}
+
+{% block page_content %}
+    <a class="btn" href="{% url 'blog:list' %}">Read my blog</a>
+{% endblock %}
